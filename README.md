@@ -36,7 +36,7 @@ In this problem set, you must write at least two functions recursively.
 The Problems
 ------------
 ### get_gcf
-Create a function called get_gcf that takes two integer arguments. Your function should return an int that is the greatest common factor of the two arguments.
+Create a function called get_gcf that takes two positive integer arguments. Your function should return an int that is the greatest common factor of the two arguments.
 
 ### largest
 Create a function called largest that takes in four ints and returns the one that is the largest.
